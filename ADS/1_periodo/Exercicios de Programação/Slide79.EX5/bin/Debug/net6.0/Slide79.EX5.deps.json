@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Slide79.EX5/1.0.0": {
+        "runtime": {
+          "Slide79.EX5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slide79.EX5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

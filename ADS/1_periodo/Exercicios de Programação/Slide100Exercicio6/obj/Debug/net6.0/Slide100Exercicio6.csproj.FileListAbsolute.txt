@@ -1,0 +1,15 @@
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\bin\Debug\net6.0\Slide100Exercicio6.exe
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\bin\Debug\net6.0\Slide100Exercicio6.deps.json
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\bin\Debug\net6.0\Slide100Exercicio6.runtimeconfig.json
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\bin\Debug\net6.0\Slide100Exercicio6.dll
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\bin\Debug\net6.0\Slide100Exercicio6.pdb
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.csproj.AssemblyReference.cache
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.AssemblyInfoInputs.cache
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.AssemblyInfo.cs
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.dll
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\refint\Slide100Exercicio6.dll
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.pdb
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\Slide100Exercicio6.genruntimeconfig.cache
+C:\Users\anacl\Desktop\Exercicio de Programação\Slide100Exercicio6\obj\Debug\net6.0\ref\Slide100Exercicio6.dll
