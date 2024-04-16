@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: #d5d5d7;
+}
+
+.cabecalho {
+    background-color: #2e2e3a;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 40px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.opc {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.opc:hover {
+    color: #98da00;
+}
+
+.jogos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #2e2e3a;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

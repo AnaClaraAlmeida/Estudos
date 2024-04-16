@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2e2e3a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adiciona altura total à tela */
+}
+
+.content {
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #95cc17;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #95cc17;
+    color: #2e2e3a;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #77a80c;
+}
